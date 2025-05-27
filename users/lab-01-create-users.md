@@ -7,6 +7,12 @@ Practice creating, modifying, and deleting user accounts using `useradd`, `passw
 
 ## 🔧 Steps
 
-1. **Create a new user called `mcfly`:**
+1. **Create a new user called `marshamcfly`:**
    ```bash
-   sudo useradd mcfly
+   sudo useradd marshamcfly
+
+2. **Set a password for `marshamcfly`:**
+   ```bash
+   sudo passwd marshamcfly
+
+
